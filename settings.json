@@ -2,7 +2,6 @@
     "editor.fontSize": 18,
     "editor.lineHeight": 1.8,
     "editor.minimap.enabled": false,
-    "files.autoSave": "afterDelay",
     "git.openRepositoryInParentFolders": "never",
     "intelephense.telemetry.enabled": false,
     "redhat.telemetry.enabled": false,
