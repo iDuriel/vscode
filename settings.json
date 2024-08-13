@@ -14,6 +14,7 @@
     "telemetry.telemetryLevel": "off",
     "terminal.integrated.defaultProfile.windows": "Ubuntu-24.04 (WSL)",
     "terminal.integrated.fontSize": 18,
+    "window.restoreWindows": "none",
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.sideBar.location": "right"
