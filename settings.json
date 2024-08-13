@@ -10,6 +10,7 @@
     "intelephense.telemetry.enabled": false,
     "redhat.telemetry.enabled": false,
     "security.workspace.trust.enabled": false,
+    "telemetry.telemetryLevel": "off",
     "terminal.integrated.defaultProfile.windows":"Ubuntu-24.04 (WSL)",
     "terminal.integrated.fontSize": 18,
     "workbench.sideBar.location": "right",
