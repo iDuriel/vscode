@@ -18,5 +18,5 @@
     "window.restoreWindows": "none",
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
-    "workbench.sideBar.location": "right",
+    "workbench.sideBar.location": "right"
 }
