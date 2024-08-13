@@ -7,6 +7,7 @@
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
     "extensions.ignoreRecommendations": true,
+    "files.hotExit": "off",
     "git.openRepositoryInParentFolders": "never",
     "intelephense.telemetry.enabled": false,
     "redhat.telemetry.enabled": false,
@@ -17,5 +18,5 @@
     "window.restoreWindows": "none",
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
-    "workbench.sideBar.location": "right"
+    "workbench.sideBar.location": "right",
 }
