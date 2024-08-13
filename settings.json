@@ -3,6 +3,8 @@
     "editor.lineHeight": 1.8,
     "editor.minimap.enabled": false,
     "editor.renderWhitespace": "trailing",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
     "git.openRepositoryInParentFolders": "never",
     "intelephense.telemetry.enabled": false,
     "redhat.telemetry.enabled": false,
