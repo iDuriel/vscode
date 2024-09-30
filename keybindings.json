@@ -20,5 +20,6 @@
     {"key": "alt+e",       "command": "workbench.view.explorer"},
     {"key": "alt+q",       "command": "workbench.action.toggleSidebarVisibility"},
     {"key": "alt+oem_2",   "command": "workbench.panel.chat.view.copilot.focus"},
-    {"key": "alt+t",       "command": "workbench.action.terminal.toggleTerminal"},
+    {"key": "alt+n",       "command": "workbench.action.chat.newChat", "when": "chatIsEnabled && inChat"},
+    {"key": "alt+t",       "command": "workbench.action.terminal.toggleTerminal"}
 ]
